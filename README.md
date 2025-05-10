@@ -18,6 +18,8 @@ To identify key design flaws in the current WhatsApp user interface and propose 
 @GavaSyntax
 @Rachini1
 @NipunaHarshika1234
+@varsha21302
+@chadunivihanga48
 
 
 ## 🛠️ Technologies Used
