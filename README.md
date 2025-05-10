@@ -1,4 +1,4 @@
-# 📱 WhatsApp UX Improvement Project (CO2214)
+# WhatsApp UX Improvement Project (CO2214)
 
 This repository contains the project work for the course **CO2214: Practical work on CO2224**, conducted by **Group 12** from the Department of Computer Science, Eastern University, Sri Lanka.
 
@@ -17,14 +17,21 @@ To identify key design flaws in the current WhatsApp user interface and propose 
 
 @GavaSyntax
 @Rachini1
+@NipunaHarshika1234
 
 
 ## 🛠️ Technologies Used
 
-- ✅ Figma – for prototype redesign
+- ✅ Figma – for prototype redesign and colloboration
 - ✅ Google Docs – for report writing
-- ✅ Git & GitHub – for collaboration
+- 
+## ✨ Features Improved
 
-## 📂 Project Structure
+- Sceduling Message
+- Anonymous Polling
+- Poll Time Limitation
+- Active Status
+- Ghost Mode
+- Flight Mode
 
 
